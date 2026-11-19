@@ -57,4 +57,4 @@ Senior Quality Assurance Automation Engineer & SDET with **5+ years of productio
 
 
 ---
-📫 **Get in Touch:** [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/nikolay-qa-435b64289/)) &bull; [Email](mailto:imaginectop@gmail.com)
+📫 **Get in Touch:** [LinkedIn](https://www.linkedin.com/in/nikolay-qa-435b64289/) &bull; [Email](mailto:imaginectop@gmail.com)
