@@ -55,9 +55,6 @@ Senior Quality Assurance Automation Engineer & SDET with **5+ years of productio
 
 ---
 
-### 📂 Featured Showcase & Blueprints
-* 🌐 **[Interactive Web Dossier & ATS Resume](https://github.com/)** — Single-page live tech showcase with responsive UI, architecture blueprints, and 1-click ATS PDF generation.
-* 🐍 **[Forex-Core-QA-Blueprint](https://github.com/)** — Production-grade reference Pytest framework for testing asynchronous WebSocket quotes & Kafka event persistence.
 
 ---
-📫 **Get in Touch:** [LinkedIn](https://linkedin.com) &bull; [Email](mailto:your.email@domain.com)
+📫 **Get in Touch:** [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/nikolay-qa-435b64289/)) &bull; [Email](mailto:imaginectop@gmail.com)
